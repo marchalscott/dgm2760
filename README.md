@@ -1,2 +1,2 @@
-# dgm2760
-Assignments for DGM2760
+#DGM-2760
+Assignments for DGM-2760
